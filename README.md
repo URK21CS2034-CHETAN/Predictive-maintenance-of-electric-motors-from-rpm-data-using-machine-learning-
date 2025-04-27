@@ -1,0 +1,2 @@
+# Predictive-maintenance-of-electric-motors-from-rpm-data-using-machine-learning-
+This project develops a machine learning-based predictive maintenance system to forecast the Remaining Useful Life (RUL) of electric motors using RPM data. It employs an autoencoder model, an unsupervised deep learning algorithm, to analyze historical and real-time RPM data for identifying motor health patterns and potential failures.
